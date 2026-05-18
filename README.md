@@ -6,8 +6,8 @@
 
 📍 Lima, Perú · 💼 Abierto a **trabajo**, **prácticas** y **freelance** · 🌐 Remoto OK
 
-[![GitHub followers](https://img.shields.io/github/followers/AitorCVargas?style=for-the-badge&logo=github&color=181717)](https://github.com/AitorCVargas?tab=followers)
-[![Profile views](https://komarev.com/ghcounter/?user=AitorCVargas&style=for-the-badge)](https://github.com/AitorCVargas)
+[![GitHub followers](https://img.shields.io/github/followers/AitorCVargas?style=for-the-badge&logo=github&label=Seguidores&labelColor=30363d&color=181717)](https://github.com/AitorCVargas?tab=followers)
+[![Public repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users%2FAitorCVargas&query=public_repos&style=for-the-badge&label=Repos&logo=github&labelColor=30363d&color=58a6ff)](https://github.com/AitorCVargas?tab=repositories)
 
 </div>
 
@@ -25,11 +25,13 @@ Me gusta el código **legible**, los README claros y los proyectos que se pueden
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AitorCVargas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=AitorCVargas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://streak-stats.demolab.com/?user=AitorCVargas&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363d&ring=58a6ff&fire=58A6FF&currStreakLabel=58a6ff&sideNums=58a6ff&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub streak" />
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AitorCVargas&theme=tokyonight&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+<br />
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AitorCVargas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8)
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AitorCVargas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8&hide=html,css&size_weight=0.6&count_weight=0.4" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/pin/?username=AitorCVargas&repo=DELA-ECOMMERCE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="DELA-ECOMMERCE" />
 
 </div>
 
@@ -139,7 +141,5 @@ Me gusta el código **legible**, los README claros y los proyectos que se pueden
 <div align="center">
 
 ⭐️ *Si te interesa mi perfil, sígueme o escríbeme por GitHub / email.*
-
-![Profile views](https://komarev.com/ghcounter/?user=AitorCVargas&style=flat-square&label=Visitas+al+perfil)
 
 </div>
