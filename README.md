@@ -65,7 +65,14 @@ Los repos de los proyectos van en privado por ahora; el stack de abajo es lo que
 
 ## Contacto
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aitorcvargas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitorcvargas/)
 [![GitHub](https://img.shields.io/badge/GitHub-AitorCVargas-181717?style=flat-square&logo=github)](https://github.com/AitorCVargas)
 [![Email](https://img.shields.io/badge/Email-escribirme-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:2201010047@undc.edu.pe)
+[![Instagram](https://img.shields.io/badge/Instagram-@aitorcvargas-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/aitorcvargas/)
+[![Facebook](https://img.shields.io/badge/Facebook-AitorCVargas-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/AitorCVargas)
 
 Rol junior, prácticas o freelance web.
+
+</div>
