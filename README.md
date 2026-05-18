@@ -6,8 +6,8 @@
 
 📍 Lima, Perú · 💼 Abierto a **trabajo**, **prácticas** y **freelance** · 🌐 Remoto OK
 
-[![GitHub followers](https://img.shields.io/github/followers/AitorCV17?style=for-the-badge&logo=github&color=181717)](https://github.com/AitorCV17?tab=followers)
-[![Profile views](https://komarev.com/ghcounter/?user=AitorCV17&style=for-the-badge)](https://github.com/AitorCV17)
+[![GitHub followers](https://img.shields.io/github/followers/AitorCVargas?style=for-the-badge&logo=github&color=181717)](https://github.com/AitorCVargas?tab=followers)
+[![Profile views](https://komarev.com/ghcounter/?user=AitorCVargas&style=for-the-badge)](https://github.com/AitorCVargas)
 
 </div>
 
@@ -25,11 +25,11 @@ Me gusta el código **legible**, los README claros y los proyectos que se pueden
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AitorCV17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AitorCVargas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AitorCV17&theme=tokyonight&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AitorCVargas&theme=tokyonight&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AitorCV17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AitorCVargas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8)
 
 </div>
 
@@ -103,11 +103,11 @@ Me gusta el código **legible**, los README claros y los proyectos que se pueden
 
 | Proyecto | Descripción | Stack principal |
 |----------|-------------|-----------------|
-| 🥛 [**DELA-ECOMMERCE**](https://github.com/AitorCV17/DELA-ECOMMERCE) | Tienda online lácteos: catálogo, carrito, perfil, admin, geocoding | Next.js · NestJS · Supabase · Prisma |
-| 🤖 [**DELA**](https://github.com/AitorCV17/DELA) | Monorepo tienda + **bot WhatsApp** con IA (pedidos, catálogo) | Next.js · Express · OpenAI · Supabase |
-| 🦷 [**OdontoSys**](https://github.com/AitorCV17/OdontoSys) | Historia clínica odontológica, red local, sin nube | React · Vite · Express · Drizzle · SQLite |
-| 🍽️ [**waiterio-bsale-sync**](https://github.com/AitorCV17/waiterio-bsale-sync) | Sync automática **Waiterio → Bsale POS** (servicio Windows) | Node.js · Axios · APIs REST |
-| 📝 [**Google-Forms**](https://github.com/AitorCV17/Google-Forms) | Extensión Chrome: autocompletado de Forms con **LLM** | Manifest V3 · OpenAI · Gemini · Claude |
+| 🥛 [**DELA-ECOMMERCE**](https://github.com/AitorCVargas/DELA-ECOMMERCE) | Tienda online lácteos: catálogo, carrito, perfil, admin, geocoding | Next.js · NestJS · Supabase · Prisma |
+| 🤖 [**DELA**](https://github.com/AitorCVargas/DELA) | Monorepo tienda + **bot WhatsApp** con IA (pedidos, catálogo) | Next.js · Express · OpenAI · Supabase |
+| 🦷 [**OdontoSys**](https://github.com/AitorCVargas/OdontoSys) | Historia clínica odontológica, red local, sin nube | React · Vite · Express · Drizzle · SQLite |
+| 🍽️ [**waiterio-bsale-sync**](https://github.com/AitorCVargas/waiterio-bsale-sync) | Sync automática **Waiterio → Bsale POS** (servicio Windows) | Node.js · Axios · APIs REST |
+| 📝 [**Google-Forms**](https://github.com/AitorCVargas/Google-Forms) | Extensión Chrome: autocompletado de Forms con **LLM** | Manifest V3 · OpenAI · Gemini · Claude |
 
 ---
 
@@ -127,7 +127,7 @@ Me gusta el código **legible**, los README claros y los proyectos que se pueden
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-AitorCV17-181717?style=for-the-badge&logo=github)](https://github.com/AitorCV17)
+[![GitHub](https://img.shields.io/badge/GitHub-AitorCVargas-181717?style=for-the-badge&logo=github)](https://github.com/AitorCVargas)
 [![Email](https://img.shields.io/badge/Email-2201010047@undc.edu.pe-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2201010047@undc.edu.pe)
 
 **Busco:** desarrollador junior · prácticas · freelance web
@@ -140,6 +140,6 @@ Me gusta el código **legible**, los README claros y los proyectos que se pueden
 
 ⭐️ *Si te interesa mi perfil, sígueme o escríbeme por GitHub / email.*
 
-![Profile views](https://komarev.com/ghcounter/?user=AitorCV17&style=flat-square&label=Visitas+al+perfil)
+![Profile views](https://komarev.com/ghcounter/?user=AitorCVargas&style=flat-square&label=Visitas+al+perfil)
 
 </div>
