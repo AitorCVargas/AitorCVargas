@@ -8,6 +8,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/AitorCVargas?style=for-the-badge&logo=github&label=Seguidores&labelColor=30363d&color=181717)](https://github.com/AitorCVargas?tab=followers)
 [![Public repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users%2FAitorCVargas&query=public_repos&style=for-the-badge&label=Repos&logo=github&labelColor=30363d&color=58a6ff)](https://github.com/AitorCVargas?tab=repositories)
+[![Visitas al perfil](https://visitor-badge.laobi.icu/badge?page_id=AitorCVargas.AitorCVargas&label=Visitas&labelColor=30363d&color=58a6ff)](https://github.com/AitorCVargas)
 
 </div>
 
@@ -138,5 +139,7 @@ Me gusta el código **legible**, los README claros y los proyectos que se pueden
 <div align="center">
 
 ⭐️ *Si te interesa mi perfil, sígueme o escríbeme por GitHub / email.*
+
+[![Visitas](https://visitor-badge.laobi.icu/badge?page_id=AitorCVargas.AitorCVargas&label=Visitas&labelColor=30363d&color=58a6ff)](https://github.com/AitorCVargas)
 
 </div>
