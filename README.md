@@ -59,7 +59,6 @@ Los repos de los proyectos van en privado por ahora; el stack de abajo es lo que
 | DELA 🔒 | Tienda + bot WhatsApp con IA | Next.js, Express, Supabase |
 | OdontoSys 🔒 | Historia clínica, red local | React, Vite, Drizzle, SQLite |
 | waiterio-bsale-sync 🔒 | Sync Waiterio → Bsale POS | Node, APIs REST |
-| Google-Forms 🔒 | Extensión Chrome + LLM para Forms | Manifest V3 |
 
 ---
 
