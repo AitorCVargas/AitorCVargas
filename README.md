@@ -28,10 +28,7 @@ Me gusta el código **legible**, los README claros y los proyectos que se pueden
 <img height="180" src="https://github-stats-extended.vercel.app/api?username=AitorCVargas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true" alt="GitHub stats" />
 <img height="180" src="https://streak-stats.demolab.com/?user=AitorCVargas&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363d&ring=58a6ff&fire=58A6FF&currStreakLabel=58a6ff&sideNums=58a6ff&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub streak" />
 
-<br />
-
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AitorCVargas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8&hide=html,css&size_weight=0.6&count_weight=0.4" alt="Top languages" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/pin/?username=AitorCVargas&repo=DELA-ECOMMERCE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="DELA-ECOMMERCE" />
+<sub>Los gráficos de lenguajes y repos destacados aparecen cuando tengas proyectos <b>públicos</b> bajo esta cuenta (ahora solo está este README).</sub>
 
 </div>
 
@@ -39,7 +36,7 @@ Me gusta el código **legible**, los README claros y los proyectos que se pueden
 
 ## 🛠️ Tecnologías que uso
 
-> Recopiladas de mis repos: **DELA-ECOMMERCE**, **DELA**, **OdontoSys**, **waiterio-bsale-sync** y **Google-Forms**.
+> Stack usado en mis proyectos (repos privados / locales): **DELA-ECOMMERCE**, **DELA**, **OdontoSys**, **waiterio-bsale-sync** y **Google-Forms**.
 
 ### 🎨 Frontend
 
@@ -105,11 +102,11 @@ Me gusta el código **legible**, los README claros y los proyectos que se pueden
 
 | Proyecto | Descripción | Stack principal |
 |----------|-------------|-----------------|
-| 🥛 [**DELA-ECOMMERCE**](https://github.com/AitorCVargas/DELA-ECOMMERCE) | Tienda online lácteos: catálogo, carrito, perfil, admin, geocoding | Next.js · NestJS · Supabase · Prisma |
-| 🤖 [**DELA**](https://github.com/AitorCVargas/DELA) | Monorepo tienda + **bot WhatsApp** con IA (pedidos, catálogo) | Next.js · Express · OpenAI · Supabase |
-| 🦷 [**OdontoSys**](https://github.com/AitorCVargas/OdontoSys) | Historia clínica odontológica, red local, sin nube | React · Vite · Express · Drizzle · SQLite |
-| 🍽️ [**waiterio-bsale-sync**](https://github.com/AitorCVargas/waiterio-bsale-sync) | Sync automática **Waiterio → Bsale POS** (servicio Windows) | Node.js · Axios · APIs REST |
-| 📝 [**Google-Forms**](https://github.com/AitorCVargas/Google-Forms) | Extensión Chrome: autocompletado de Forms con **LLM** | Manifest V3 · OpenAI · Gemini · Claude |
+| 🥛 **DELA-ECOMMERCE** 🔒 | Tienda online lácteos: catálogo, carrito, perfil, admin, geocoding | Next.js · NestJS · Supabase · Prisma |
+| 🤖 **DELA** 🔒 | Monorepo tienda + **bot WhatsApp** con IA (pedidos, catálogo) | Next.js · Express · OpenAI · Supabase |
+| 🦷 **OdontoSys** 🔒 | Historia clínica odontológica, red local, sin nube | React · Vite · Express · Drizzle · SQLite |
+| 🍽️ **waiterio-bsale-sync** 🔒 | Sync automática **Waiterio → Bsale POS** (servicio Windows) | Node.js · Axios · APIs REST |
+| 📝 **Google-Forms** 🔒 | Extensión Chrome: autocompletado de Forms con **LLM** | Manifest V3 · OpenAI · Gemini · Claude |
 
 ---
 
