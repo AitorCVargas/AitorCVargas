@@ -10,7 +10,6 @@
 
 <br/>
 
-[![Seguidores](https://img.shields.io/github/followers/AitorCVargas?style=for-the-badge&logo=github&label=Seguidores&color=181717)](https://github.com/AitorCVargas?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aitorcvargas/)
 [![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2201010047@undc.edu.pe)
 
@@ -23,17 +22,6 @@
 Desarrollo **soluciones digitales completas**: interfaces web, servicios backend, bases de datos y despliegue en producción. Mi enfoque principal son las **integraciones entre sistemas** (punto de venta, comercio electrónico, mensajería) y herramientas que facilitan el trabajo diario de equipos operativos.
 
 Parte del código de proyectos para clientes permanece en repositorios **privados**. En esta página se resume el trabajo destacado y las tecnologías que utilizo de forma habitual.
-
----
-
-## Actividad en GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AitorCVargas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&border_radius=10" height="170" alt="Estadísticas de GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AitorCVargas&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&border_radius=10" height="170" alt="Lenguajes más usados" />
-
-</div>
 
 ---
 
