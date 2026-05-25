@@ -65,9 +65,9 @@ Parte del código de proyectos para clientes permanece en repositorios privados.
 | :--- | :--- | :--- |
 | Wasel 🔒 | Sincronización entre Waiterio y Bsale POS para restaurantes, con generación de borradores de venta, panel de control en Windows, alertas de inventario y catálogo de productos. Despliegue en contenedores. | `Node.js` · `SQLite` · `WebSocket` · `Tauri` · `Docker` |
 | [wasel-updates](https://github.com/AitorCVargas/wasel-updates) 🌐 | Canal público de distribución del panel con instaladores y actualizaciones automáticas mediante `latest.json`. | `GitHub Actions` · `Tauri Updater` |
-| DELA E-commerce 🔒 | Plataforma de comercio electrónico (catálogo, carrito y panel administrativo). | `Next.js` · `NestJS` · `Supabase` |
-| DELA 🔒 | Tienda en línea con asistente conversacional por WhatsApp e inteligencia artificial. | `Next.js` · `Express` · `Supabase` |
-| OdontoSys 🔒 | Sistema de historia clínica para entorno de red local. | `React` · `Vite` · `Drizzle` · `SQLite` |
+| DELA-ECOMMERCE 🔒 | Tienda online de productos lácteos con catálogo, carrito, pagos y panel administrativo. | `Next.js` · `NestJS` · `Supabase` |
+| DELA-COMERCIO 🔒 | Panel web y bot de WhatsApp para pedidos B2B/B2C, con atención automatizada e integración OpenAI. | `Next.js` · `Express` · `Supabase` · `OpenAI` |
+| ODONTOSYS 🔒 | Sistema de historia clínica para entorno de red local. | `React` · `Vite` · `Drizzle` · `SQLite` |
 
 <sub>🔒 Repositorio privado · 🌐 Repositorio público</sub>
 
