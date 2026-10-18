@@ -231,7 +231,7 @@ Seguimiento de clientes nuevos y existentes por región, con plantilla de Excel 
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 #### 🎓 [PREDICCION-SISTEMA](https://github.com/AitorCVargas/PREDICCION-SISTEMA) 🌐
 Aplicación de apoyo a la gestión académica que predice el riesgo de bajo rendimiento y el promedio de los estudiantes. Parte de mi tesis en la UNDC.
@@ -239,15 +239,7 @@ Aplicación de apoyo a la gestión académica que predice el riesgo de bajo rend
 `Python` `Machine Learning`
 
 </td>
-<td width="33%" valign="top">
-
-#### 👻 Ghostify 🔒
-Extensión para Chrome y Edge que oculta el visto, el escribiendo y las vistas de historias en redes sociales.
-
-`JavaScript` `Chrome Extension`
-
-</td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 #### 🗿 TotemFail 🔒
 Plugin de Minecraft publicado en Spigot que hace que los tótems puedan fallar con una probabilidad configurable.
@@ -257,7 +249,7 @@ Plugin de Minecraft publicado en Spigot que hace que los tótems puedan fallar c
 </td>
 </tr>
 <tr>
-<td colspan="3" valign="top">
+<td colspan="2" valign="top">
 
 #### 🦷 ODONTOSYS 🔒
 Sistema de historia clínica pensado para funcionar en una red local.
