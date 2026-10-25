@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=150&section=header&text=Aitor%20Vargas&fontSize=48&fontColor=f0f6fc&fontAlignY=45&desc=Full%20Stack%20Developer&descSize=18&descColor=8b949e&descAlignY=68" alt="Aitor Vargas" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=150&section=header&text=Aitor%20C.%20Vargas&fontSize=48&fontColor=f0f6fc&fontAlignY=45&desc=Full%20Stack%20Developer&descSize=18&descColor=8b949e&descAlignY=68" alt="Aitor C. Vargas" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=760&lines=Sistemas+de+producci%C3%B3n+y+trazabilidad;Integraciones+entre+POS%2C+e-commerce+y+WhatsApp;Dashboards+de+datos+y+aplicaciones+PWA;Aplicaciones+web+y+de+escritorio" alt="Typing" />
 
@@ -13,7 +13,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aitorcvargas-161b22?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitorcvargas/)
-[![Email](https://img.shields.io/badge/Email-Contacto-161b22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estudiante@undc.edu.pe)
 [![Instagram](https://img.shields.io/badge/Instagram-@aitorcvargas-161b22?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aitorcvargas/)
 
 </div>
@@ -283,7 +282,6 @@ Busco oportunidades como desarrollador junior, prácticas o freelance en desarro
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aitorcvargas-161b22?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitorcvargas/)
-[![Email](https://img.shields.io/badge/Email-estudiante@undc.edu.pe-161b22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estudiante@undc.edu.pe)
 [![Instagram](https://img.shields.io/badge/Instagram-@aitorcvargas-161b22?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aitorcvargas/)
 [![Facebook](https://img.shields.io/badge/Facebook-AitorCVargas-161b22?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AitorCVargas/)
 
