@@ -250,16 +250,6 @@ Aplicación de apoyo a la gestión académica que predice el riesgo de bajo rend
 </td>
 <td width="50%" valign="top">
 
-#### 🗿 TotemFail 🔒
-Plugin de Minecraft publicado en Spigot que hace que los tótems puedan fallar con una probabilidad configurable.
-
-`Java` `Spigot` `Paper`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
 #### 🦷 ODONTOSYS 🔒
 Sistema de historia clínica pensado para funcionar en una red local.
 
