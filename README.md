@@ -6,9 +6,9 @@
 
 <br/>
 
-![Ubicación](https://img.shields.io/badge/📍_Perú-161b22?style=flat-square)
-![Estado](https://img.shields.io/badge/🟢_Disponible-Empleo_·_Freelance-161b22?style=flat-square)
-![Modalidad](https://img.shields.io/badge/🌎_Remoto_·_Híbrido-161b22?style=flat-square)
+![Ubicación](https://img.shields.io/badge/Perú-161b22?style=flat-square)
+![Estado](https://img.shields.io/badge/Disponible-Empleo_·_Freelance-161b22?style=flat-square)
+![Modalidad](https://img.shields.io/badge/Remoto_·_Híbrido-161b22?style=flat-square)
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 <br/>
 
-## 👋 Sobre mí
+## <img src="https://api.iconify.design/lucide/user.svg?color=%238b949e" width="22" height="22" alt="" /> Sobre mí
 
 Soy desarrollador full stack y estudiante de la Universidad Nacional de Cañete (UNDC). Construyo soluciones completas, desde la interfaz y el backend hasta la base de datos y el despliegue en producción.
 
@@ -29,31 +29,31 @@ Como practicante de desarrollo full stack en una empresa de lácteos (abr. – n
 
 <br/>
 
-## 🧩 Qué hago
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%238b949e" width="22" height="22" alt="" /> Qué hago
 
 <table>
 <tr>
 <td width="25%" valign="top">
 
-### 🏭 Sistemas operativos
+### <img src="https://api.iconify.design/lucide/factory.svg?color=%238b949e" width="20" height="20" alt="" /> Sistemas operativos
 Producción, stock, trazabilidad y kardex para planta y cocina, con modo offline.
 
 </td>
 <td width="25%" valign="top">
 
-### 🔌 Integraciones
+### <img src="https://api.iconify.design/lucide/plug.svg?color=%238b949e" width="20" height="20" alt="" /> Integraciones
 POS, tienda online e IA conectados para que los datos fluyan solos.
 
 </td>
 <td width="25%" valign="top">
 
-### 📊 Dashboards
+### <img src="https://api.iconify.design/lucide/chart-column.svg?color=%238b949e" width="20" height="20" alt="" /> Dashboards
 Ventas, gastos y rentabilidad a partir de Excel, con KPIs y enlaces compartibles.
 
 </td>
 <td width="25%" valign="top">
 
-### 🖥️ Apps de escritorio
+### <img src="https://api.iconify.design/lucide/monitor.svg?color=%238b949e" width="20" height="20" alt="" /> Apps de escritorio
 Paneles nativos con Tauri y Rust, con instaladores y actualizaciones automáticas.
 
 </td>
@@ -62,7 +62,7 @@ Paneles nativos con Tauri y Rust, con instaladores y actualizaciones automática
 
 <br/>
 
-## 🛠️ Tecnologías
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%238b949e" width="22" height="22" alt="" /> Tecnologías
 
 <table>
 <tr>
@@ -129,15 +129,15 @@ Paneles nativos con Tauri y Rust, con instaladores y actualizaciones automática
 
 <br/>
 
-## 🚀 Proyectos destacados
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%238b949e" width="22" height="22" alt="" /> Proyectos destacados
 
-### 🏭 Operación y trazabilidad
+### <img src="https://api.iconify.design/lucide/factory.svg?color=%238b949e" width="20" height="20" alt="" /> Operación y trazabilidad
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🧪 DELATrace 🔒
+#### <img src="https://api.iconify.design/lucide/flask-conical.svg?color=%238b949e" width="18" height="18" alt="" /> DELATrace <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="14" height="14" alt="" />
 Gestión de producción, control de stock y trazabilidad alimentaria para una planta de lácteos, con manual de operación y cumplimiento normativo.
 
 `React` `Vite` `FastAPI` `PostgreSQL` `Docker`
@@ -145,7 +145,7 @@ Gestión de producción, control de stock y trazabilidad alimentaria para una pl
 </td>
 <td width="50%" valign="top">
 
-#### 📋 Kardex DELA Cámara 🔒
+#### <img src="https://api.iconify.design/lucide/clipboard-list.svg?color=%238b949e" width="18" height="18" alt="" /> Kardex DELA Cámara <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="14" height="14" alt="" />
 Kardex de cámara de frío con entradas, salidas y stock. PWA que funciona sin red y sincroniza al reconectar.
 
 `Next.js` `React` `PostgreSQL` `Serwist` `Docker`
@@ -155,7 +155,7 @@ Kardex de cámara de frío con entradas, salidas y stock. PWA que funciona sin r
 <tr>
 <td colspan="2" valign="top">
 
-#### 🐄 Club DELA 🔒
+#### <img src="https://api.iconify.design/lucide/award.svg?color=%238b949e" width="18" height="18" alt="" /> Club DELA <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="14" height="14" alt="" />
 PWA de fidelización en producción con puntos, niveles, misiones, trivia y panel de caja, sincronizada con el sistema de ventas.
 
 `Next.js` `TypeScript` `PostgreSQL` `Vitest` `Docker`
@@ -164,13 +164,13 @@ PWA de fidelización en producción con puntos, niveles, misiones, trivia y pane
 </tr>
 </table>
 
-### 🔌 Integraciones y comercio
+### <img src="https://api.iconify.design/lucide/plug.svg?color=%238b949e" width="20" height="20" alt="" /> Integraciones y comercio
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🍽️ Wasel 🔒
+#### <img src="https://api.iconify.design/lucide/utensils.svg?color=%238b949e" width="18" height="18" alt="" /> Wasel <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="14" height="14" alt="" />
 Sincronización entre Waiterio y Bsale POS para restaurantes, con borradores de venta, panel en Windows, alertas de inventario y catálogo de productos.
 
 `Node.js` `SQLite` `WebSocket` `Tauri` `Docker`
@@ -178,7 +178,7 @@ Sincronización entre Waiterio y Bsale POS para restaurantes, con borradores de 
 </td>
 <td width="50%" valign="top">
 
-#### 📦 [wasel-updates](https://github.com/AitorCVargas/wasel-updates) 🌐
+#### <img src="https://api.iconify.design/lucide/package.svg?color=%238b949e" width="18" height="18" alt="" /> [wasel-updates](https://github.com/AitorCVargas/wasel-updates) <img src="https://api.iconify.design/lucide/globe.svg?color=%238b949e" width="14" height="14" alt="" />
 Canal público de distribución del panel, con instaladores y actualizaciones automáticas mediante `latest.json`.
 
 `GitHub Actions` `Tauri Updater`
@@ -188,7 +188,7 @@ Canal público de distribución del panel, con instaladores y actualizaciones au
 <tr>
 <td width="50%" valign="top">
 
-#### 🛒 DELA-ECOMMERCE 🔒
+#### <img src="https://api.iconify.design/lucide/shopping-cart.svg?color=%238b949e" width="18" height="18" alt="" /> DELA-ECOMMERCE <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="14" height="14" alt="" />
 Tienda online de productos lácteos con catálogo, carrito, pagos y panel administrativo.
 
 `Next.js` `NestJS` `Prisma` `PostgreSQL` `Socket.IO`
@@ -196,7 +196,7 @@ Tienda online de productos lácteos con catálogo, carrito, pagos y panel admini
 </td>
 <td width="50%" valign="top">
 
-#### 💬 DELA-COMERCIO 🔒
+#### <img src="https://api.iconify.design/lucide/truck.svg?color=%238b949e" width="18" height="18" alt="" /> DELA-COMERCIO <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="14" height="14" alt="" />
 Plataforma de pedidos y logística B2B/B2C con producción, despachos, notificaciones en tiempo real y toma de pedidos asistida por IA.
 
 `Next.js` `Drizzle` `PostgreSQL` `WebSocket` `OpenAI`
@@ -205,13 +205,13 @@ Plataforma de pedidos y logística B2B/B2C con producción, despachos, notificac
 </tr>
 </table>
 
-### 📊 Dashboards y datos
+### <img src="https://api.iconify.design/lucide/chart-column.svg?color=%238b949e" width="20" height="20" alt="" /> Dashboards y datos
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-#### 💰 Dashboard de Ventas 🔒
+#### <img src="https://api.iconify.design/lucide/wallet.svg?color=%238b949e" width="18" height="18" alt="" /> Dashboard de Ventas <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="14" height="14" alt="" />
 Ventas por canal, sucursal y categoría a partir del Excel de Bsale, con filtros, modo oscuro y enlaces compartibles.
 
 `FastAPI` `Docker`
@@ -219,7 +219,7 @@ Ventas por canal, sucursal y categoría a partir del Excel de Bsale, con filtros
 </td>
 <td width="33%" valign="top">
 
-#### 📉 Dashboard de Gastos 🔒
+#### <img src="https://api.iconify.design/lucide/receipt.svg?color=%238b949e" width="18" height="18" alt="" /> Dashboard de Gastos <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="14" height="14" alt="" />
 Gastos, planilla y Estado de Resultados, con rentabilidad por canal, línea de producto, zona y vendedor.
 
 `FastAPI` `Docker`
@@ -227,7 +227,7 @@ Gastos, planilla y Estado de Resultados, con rentabilidad por canal, línea de p
 </td>
 <td width="33%" valign="top">
 
-#### 📈 Avances Comerciales 🔒
+#### <img src="https://api.iconify.design/lucide/trending-up.svg?color=%238b949e" width="18" height="18" alt="" /> Avances Comerciales <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="14" height="14" alt="" />
 Seguimiento de clientes nuevos y existentes por región, con plantilla de Excel y enlaces permanentes.
 
 `Python` `Docker`
@@ -236,13 +236,13 @@ Seguimiento de clientes nuevos y existentes por región, con plantilla de Excel 
 </tr>
 </table>
 
-### 🧠 Otros proyectos
+### <img src="https://api.iconify.design/lucide/brain.svg?color=%238b949e" width="20" height="20" alt="" /> Otros proyectos
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🎓 [PREDICCION-SISTEMA](https://github.com/AitorCVargas/PREDICCION-SISTEMA) 🌐
+#### <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%238b949e" width="18" height="18" alt="" /> [PREDICCION-SISTEMA](https://github.com/AitorCVargas/PREDICCION-SISTEMA) <img src="https://api.iconify.design/lucide/globe.svg?color=%238b949e" width="14" height="14" alt="" />
 Aplicación de apoyo a la gestión académica que predice el riesgo de bajo rendimiento y el promedio de los estudiantes. Parte de mi tesis en la UNDC.
 
 `Python` `Machine Learning`
@@ -250,7 +250,7 @@ Aplicación de apoyo a la gestión académica que predice el riesgo de bajo rend
 </td>
 <td width="50%" valign="top">
 
-#### 🦷 ODONTOSYS 🔒
+#### <img src="https://api.iconify.design/lucide/stethoscope.svg?color=%238b949e" width="18" height="18" alt="" /> ODONTOSYS <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="14" height="14" alt="" />
 Sistema de historia clínica pensado para funcionar en una red local.
 
 `React` `Vite` `Drizzle` `SQLite`
@@ -259,11 +259,11 @@ Sistema de historia clínica pensado para funcionar en una red local.
 </tr>
 </table>
 
-<sub>🔒 Repositorio privado · 🌐 Repositorio público</sub>
+<sub><img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="12" height="12" alt="" /> Repositorio privado · <img src="https://api.iconify.design/lucide/globe.svg?color=%238b949e" width="12" height="12" alt="" /> Repositorio público</sub>
 
 <br/>
 
-## 📫 Contacto
+## <img src="https://api.iconify.design/lucide/mail.svg?color=%238b949e" width="22" height="22" alt="" /> Contacto
 
 <div align="center">
 
