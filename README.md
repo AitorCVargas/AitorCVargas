@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1b3a,55:1450c8,100:6cb2ff&height=230&section=header&text=Aitor%20C.%20Vargas&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=20&descAlignY=57&animation=fadeIn" alt="Aitor C. Vargas" width="100%" />
 
-<a href="https://github.com/AitorCVargas"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=6CB2FF&center=true&vCenter=true&width=720&lines=Interfaces+que+da+gusto+usar;Next.js+%C2%B7+NestJS+%C2%B7+FastAPI+%C2%B7+PostgreSQL;PWAs+que+funcionan+sin+internet;Del+dise%C3%B1o+a+producci%C3%B3n+con+Docker" alt="Typing" /></a>
+<a href="https://github.com/AitorCVargas"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=6CB2FF&center=true&vCenter=true&width=720&lines=Interfaces+animadas+que+da+gusto+usar;Next.js+%C2%B7+NestJS+%C2%B7+FastAPI+%C2%B7+PostgreSQL;PWAs+que+funcionan+sin+internet;Del+dise%C3%B1o+a+producci%C3%B3n+con+Docker" alt="Typing" /></a>
 
 <br/>
 
@@ -48,6 +48,9 @@ Comercio electrónico con catálogo, carrito, pagos y panel de administración.
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black" />
+<img src="https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Lenis-111111?style=flat-square" />
 
 <a href="https://dela.com.pe"><img src="https://img.shields.io/badge/Ver_en_vivo-1450c8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver en vivo" /></a>
 
@@ -64,6 +67,7 @@ Pedidos, producción y despachos con notificaciones en tiempo real, roles y toma
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black" />
 
 <a href="https://b2b.dela.com.pe"><img src="https://img.shields.io/badge/Ver_en_vivo-1450c8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver en vivo" /></a>
 
@@ -82,6 +86,7 @@ Ingresos, producción, calidad y expedición de una planta de alimentos, con tra
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
 
 <a href="https://trace.dela.com.pe"><img src="https://img.shields.io/badge/Ver_en_vivo-1450c8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver en vivo" /></a>
 
@@ -98,6 +103,7 @@ PWA con puntos, niveles, misiones, trivia y panel de caja, sincronizada con el s
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
 <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black" />
 
 <a href="https://club.dela.com.pe"><img src="https://img.shields.io/badge/Ver_en_vivo-1450c8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver en vivo" /></a>
 
@@ -131,6 +137,11 @@ PWA que funciona **dentro de la cámara, sin señal**; los movimientos quedan en
 
 **Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,astro,tailwind,vite,html,css" alt="Frontend" />
+
+**Animación**<br/>
+<img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
+<img src="https://img.shields.io/badge/Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Motion" />
+<img src="https://img.shields.io/badge/Lenis-111111?style=for-the-badge" alt="Lenis" />
 
 **Backend**<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi" alt="Backend" />
