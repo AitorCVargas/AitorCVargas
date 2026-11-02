@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=150&section=header&text=Aitor%20C.%20Vargas&fontSize=48&fontColor=f0f6fc&fontAlignY=45&desc=Full%20Stack%20Developer&descSize=18&descColor=8b949e&descAlignY=68" alt="Aitor C. Vargas" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=760&lines=Sistemas+de+producci%C3%B3n+y+trazabilidad;Integraciones+entre+POS%2C+e-commerce+y+WhatsApp;Dashboards+de+datos+y+aplicaciones+PWA;Aplicaciones+web+y+de+escritorio" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=760&lines=Sistemas+de+producci%C3%B3n+y+trazabilidad;Integraciones+entre+POS%2C+e-commerce+e+IA;Dashboards+de+datos+y+aplicaciones+PWA;Aplicaciones+web+y+de+escritorio" alt="Typing" />
 
 <br/>
 
-![Ubicación](https://img.shields.io/badge/📍_Lima,_Perú-161b22?style=flat-square)
-![Estado](https://img.shields.io/badge/🟢_Disponible-Empleo_·_Prácticas_·_Freelance-161b22?style=flat-square)
-![Modalidad](https://img.shields.io/badge/🌎_Remoto-161b22?style=flat-square)
+![Ubicación](https://img.shields.io/badge/📍_Perú-161b22?style=flat-square)
+![Estado](https://img.shields.io/badge/🟢_Disponible-Empleo_·_Freelance-161b22?style=flat-square)
+![Modalidad](https://img.shields.io/badge/🌎_Remoto_·_Híbrido-161b22?style=flat-square)
 
 <br/>
 
@@ -23,7 +23,7 @@
 
 Soy desarrollador full stack y estudiante de la Universidad Nacional de Cañete (UNDC). Construyo soluciones completas, desde la interfaz y el backend hasta la base de datos y el despliegue en producción.
 
-Mi trabajo se concentra en sistemas operativos para una empresa de lácteos, con producción, trazabilidad, kardex, ventas y canal online, además de integraciones entre punto de venta, comercio electrónico y mensajería.
+Como practicante de desarrollo full stack en una empresa de lácteos (abr. – nov. 2026) construí y mantuve sistemas en producción para pedidos, producción, trazabilidad, inventario, fidelización y comercio electrónico, integrados con el punto de venta y con IA.
 
 > Casi todo el código de clientes está en repositorios privados. Aquí resumo lo más relevante y las tecnologías que uso.
 
@@ -42,7 +42,7 @@ Producción, stock, trazabilidad y kardex para planta y cocina, con modo offline
 <td width="25%" valign="top">
 
 ### 🔌 Integraciones
-POS, tiendas online y WhatsApp conectados para que los datos fluyan solos.
+POS, tienda online e IA conectados para que los datos fluyan solos.
 
 </td>
 <td width="25%" valign="top">
@@ -145,8 +145,8 @@ Gestión de producción, control de stock y trazabilidad alimentaria para una pl
 </td>
 <td width="50%" valign="top">
 
-#### 📋 Kardex DELA Ruta y Cámara 🔒
-Kardex de cocina y de cámara de frío con entradas, salidas y stock por área. PWA que funciona sin red y sincroniza al reconectar.
+#### 📋 Kardex DELA Cámara 🔒
+Kardex de cámara de frío con entradas, salidas y stock. PWA que funciona sin red y sincroniza al reconectar.
 
 `Next.js` `React` `PostgreSQL` `Serwist` `Docker`
 
@@ -156,9 +156,9 @@ Kardex de cocina y de cámara de frío con entradas, salidas y stock por área. 
 <td colspan="2" valign="top">
 
 #### 🐄 Club DELA 🔒
-Programa de fidelización de clientes con niveles y beneficios, actualmente en definición de producto.
+PWA de fidelización en producción con puntos, niveles, misiones, trivia y panel de caja, sincronizada con el sistema de ventas.
 
-`TypeScript` `Docker`
+`Next.js` `TypeScript` `PostgreSQL` `Vitest` `Docker`
 
 </td>
 </tr>
@@ -191,15 +191,15 @@ Canal público de distribución del panel, con instaladores y actualizaciones au
 #### 🛒 DELA-ECOMMERCE 🔒
 Tienda online de productos lácteos con catálogo, carrito, pagos y panel administrativo.
 
-`Next.js` `NestJS` `Supabase`
+`Next.js` `NestJS` `Prisma` `PostgreSQL` `Socket.IO`
 
 </td>
 <td width="50%" valign="top">
 
 #### 💬 DELA-COMERCIO 🔒
-Panel web y bot de WhatsApp para pedidos B2B y B2C, con atención automatizada e integración con OpenAI.
+Plataforma de pedidos y logística B2B/B2C con producción, despachos, notificaciones en tiempo real y toma de pedidos asistida por IA.
 
-`Next.js` `Express` `Supabase` `OpenAI`
+`Next.js` `Drizzle` `PostgreSQL` `WebSocket` `OpenAI`
 
 </td>
 </tr>
@@ -277,7 +277,7 @@ Sistema de historia clínica pensado para funcionar en una red local.
 
 <div align="center">
 
-Busco oportunidades como desarrollador junior, prácticas o freelance en desarrollo web, sistemas internos e integraciones.
+Busco oportunidades como desarrollador full stack, frontend o backend junior, o proyectos freelance en desarrollo web, sistemas internos e integraciones.
 
 <br/>
 
