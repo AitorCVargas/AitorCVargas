@@ -1,127 +1,120 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=150&section=header&text=Aitor%20C.%20Vargas&fontSize=48&fontColor=f0f6fc&fontAlignY=45&desc=Full%20Stack%20Developer&descSize=18&descColor=8b949e&descAlignY=68" alt="Aitor C. Vargas" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1b3a,55:1450c8,100:6cb2ff&height=230&section=header&text=Aitor%20C.%20Vargas&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=20&descAlignY=57&animation=fadeIn" alt="Aitor C. Vargas" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=760&lines=Sistemas+de+producci%C3%B3n+y+trazabilidad;Integraciones+entre+POS%2C+e-commerce+e+IA;Dashboards+de+datos+y+aplicaciones+PWA;Aplicaciones+web+y+de+escritorio" alt="Typing" />
-
-<br/>
-
-![Ubicación](https://img.shields.io/badge/Perú-161b22?style=flat-square)
-![Estado](https://img.shields.io/badge/Disponible-Empleo_·_Freelance-161b22?style=flat-square)
-![Modalidad](https://img.shields.io/badge/Remoto_·_Híbrido-161b22?style=flat-square)
+<a href="https://github.com/AitorCVargas"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=6CB2FF&center=true&vCenter=true&width=720&lines=Interfaces+que+da+gusto+usar;Next.js+%C2%B7+NestJS+%C2%B7+FastAPI+%C2%B7+PostgreSQL;PWAs+que+funcionan+sin+internet;Del+dise%C3%B1o+a+producci%C3%B3n+con+Docker" alt="Typing" /></a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aitorcvargas-161b22?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitorcvargas/)
-[![Instagram](https://img.shields.io/badge/Instagram-@aitorcvargas-161b22?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aitorcvargas/)
+<img src="https://img.shields.io/badge/Per%C3%BA-1450c8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Perú" />
+<img src="https://img.shields.io/badge/Disponible-Empleo_·_Freelance-16a34a?style=for-the-badge" alt="Disponible" />
+<img src="https://img.shields.io/badge/Remoto_·_H%C3%ADbrido-0b1b3a?style=for-the-badge&logo=googleearth&logoColor=6cb2ff" alt="Remoto · Híbrido" />
 
 </div>
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide/user.svg?color=%238b949e" width="22" height="22" alt="" /> Sobre mí
+## <img src="https://api.iconify.design/lucide/sparkles.svg?color=%236cb2ff" width="24" height="24" alt="" /> Sobre mí
 
-Soy desarrollador full stack y estudiante de la Universidad Nacional de Cañete (UNDC). Construyo soluciones completas, desde la interfaz y el backend hasta la base de datos y el despliegue en producción.
+Soy desarrollador full stack y estudiante de Ingeniería de Sistemas en la Universidad Nacional de Cañete. Me gusta que lo que construyo **se vea bien y funcione mejor**, por eso cuido el diseño de cada pantalla y llevo cada sistema hasta producción.
 
-Como practicante de desarrollo full stack en una empresa de lácteos (abr. – nov. 2026) construí y mantuve sistemas en producción para pedidos, producción, trazabilidad, inventario, fidelización y comercio electrónico, integrados con el punto de venta y con IA.
+Como practicante en una empresa de lácteos (abr. – nov. 2026) diseñé y desplegué **cinco sistemas web que hoy usa la operación diaria**, entre ellos una tienda online, pedidos B2B/B2C, trazabilidad de planta, inventario offline y un club de fidelización.
 
-> Casi todo el código de clientes está en repositorios privados. Aquí resumo lo más relevante y las tecnologías que uso.
-
-<br/>
-
-## <img src="https://api.iconify.design/lucide/layers.svg?color=%238b949e" width="22" height="22" alt="" /> Qué hago
-
-<table>
-<tr>
-<td width="25%" valign="top">
-
-### <img src="https://api.iconify.design/lucide/factory.svg?color=%238b949e" width="20" height="20" alt="" /> Sistemas operativos
-Producción, stock, trazabilidad y kardex para planta y cocina, con modo offline.
-
-</td>
-<td width="25%" valign="top">
-
-### <img src="https://api.iconify.design/lucide/plug.svg?color=%238b949e" width="20" height="20" alt="" /> Integraciones
-POS, tienda online e IA conectados para que los datos fluyan solos.
-
-</td>
-<td width="25%" valign="top">
-
-### <img src="https://api.iconify.design/lucide/chart-column.svg?color=%238b949e" width="20" height="20" alt="" /> Dashboards
-Ventas, gastos y rentabilidad a partir de Excel, con KPIs y enlaces compartibles.
-
-</td>
-<td width="25%" valign="top">
-
-### <img src="https://api.iconify.design/lucide/monitor.svg?color=%238b949e" width="20" height="20" alt="" /> Apps de escritorio
-Paneles nativos con Tauri y Rust, con instaladores y actualizaciones automáticas.
-
-</td>
-</tr>
-</table>
+```ts
+const aitor = {
+  rol: "Full Stack Developer",
+  stack: ["TypeScript", "React", "Next.js", "NestJS", "PostgreSQL"],
+  fuerte: ["UI cuidada", "APIs REST", "PWAs offline", "Docker"],
+  ia: "la uso a diario para acelerar, valido todo con pruebas",
+  modalidad: ["Remoto", "Híbrido"],
+};
+```
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide/wrench.svg?color=%238b949e" width="22" height="22" alt="" /> Tecnologías
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%236cb2ff" width="24" height="24" alt="" /> En producción
 
 <table>
 <tr>
-<td width="20%" valign="middle"><sub>LENGUAJES</sub></td>
-<td>
+<td width="50%" valign="top">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-161b22?style=flat-square&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=white)
+<a href="https://dela.com.pe"><img src="assets/tienda.jpg" alt="Tienda online" width="400" /></a>
+
+### Tienda Online
+Comercio electrónico con catálogo, carrito, pagos y panel de administración.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+
+<a href="https://dela.com.pe"><img src="https://img.shields.io/badge/Ver_en_vivo-1450c8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver en vivo" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://b2b.dela.com.pe"><img src="assets/b2b.jpg" alt="Plataforma de pedidos B2B/B2C" width="400" /></a>
+
+### Pedidos y Logística B2B/B2C
+Pedidos, producción y despachos con notificaciones en tiempo real, roles y toma de pedidos asistida por IA.
+
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+
+<a href="https://b2b.dela.com.pe"><img src="https://img.shields.io/badge/Ver_en_vivo-1450c8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver en vivo" /></a>
 
 </td>
 </tr>
 <tr>
-<td width="20%" valign="middle"><sub>FRONTEND</sub></td>
-<td>
+<td width="50%" valign="top">
 
-![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-161b22?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-161b22?style=flat-square&logo=tailwindcss&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-161b22?style=flat-square&logo=pwa&logoColor=white)
+<a href="https://trace.dela.com.pe"><img src="assets/trace.jpg" alt="Sistema de trazabilidad" width="400" /></a>
+
+### Trazabilidad de Producción
+Ingresos, producción, calidad y expedición de una planta de alimentos, con trazabilidad de lotes de punta a punta.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+
+<a href="https://trace.dela.com.pe"><img src="https://img.shields.io/badge/Ver_en_vivo-1450c8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver en vivo" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://club.dela.com.pe"><img src="assets/club.jpg" alt="Club de fidelización" width="400" /></a>
+
+### Club de Fidelización
+PWA con puntos, niveles, misiones, trivia y panel de caja, sincronizada con el sistema de ventas.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+
+<a href="https://club.dela.com.pe"><img src="https://img.shields.io/badge/Ver_en_vivo-1450c8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver en vivo" /></a>
 
 </td>
 </tr>
 <tr>
-<td width="20%" valign="middle"><sub>BACKEND Y DATOS</sub></td>
-<td>
+<td width="50%" valign="middle"><a href="https://camarakardex.dela.com.pe"><img src="assets/kardex.jpg" alt="Kardex de cámara de frío" width="400" /></a></td>
+<td width="50%" valign="middle">
 
-![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-161b22?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-161b22?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-161b22?style=flat-square&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-161b22?style=flat-square&logo=prisma&logoColor=white)
+### Kardex de Cámara de Frío
+PWA que funciona **dentro de la cámara, sin señal**; los movimientos quedan en cola y se sincronizan solos al salir.
 
-</td>
-</tr>
-<tr>
-<td width="20%" valign="middle"><sub>ESCRITORIO E IA</sub></td>
-<td>
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Service_Workers-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 
-![Tauri](https://img.shields.io/badge/Tauri-161b22?style=flat-square&logo=tauri&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-161b22?style=flat-square&logo=openai&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-161b22?style=flat-square&logo=scikitlearn&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="20%" valign="middle"><sub>DEVOPS</sub></td>
-<td>
-
-![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-161b22?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161b22?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white)
+<a href="https://camarakardex.dela.com.pe"><img src="https://img.shields.io/badge/Ver_en_vivo-1450c8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver en vivo" /></a>
 
 </td>
 </tr>
@@ -129,152 +122,98 @@ Paneles nativos con Tauri y Rust, con instaladores y actualizaciones automática
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide/rocket.svg?color=%238b949e" width="22" height="22" alt="" /> Proyectos destacados
-
-### <img src="https://api.iconify.design/lucide/factory.svg?color=%238b949e" width="20" height="20" alt="" /> Operación y trazabilidad
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### <img src="https://api.iconify.design/lucide/flask-conical.svg?color=%238b949e" width="18" height="18" alt="" /> DELATrace <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="14" height="14" alt="" />
-Gestión de producción, control de stock y trazabilidad alimentaria para una planta de lácteos, con manual de operación y cumplimiento normativo.
-
-`React` `Vite` `FastAPI` `PostgreSQL` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-#### <img src="https://api.iconify.design/lucide/clipboard-list.svg?color=%238b949e" width="18" height="18" alt="" /> Kardex DELA Cámara <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="14" height="14" alt="" />
-Kardex de cámara de frío con entradas, salidas y stock. PWA que funciona sin red y sincroniza al reconectar.
-
-`Next.js` `React` `PostgreSQL` `Serwist` `Docker`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-#### <img src="https://api.iconify.design/lucide/award.svg?color=%238b949e" width="18" height="18" alt="" /> Club DELA <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="14" height="14" alt="" />
-PWA de fidelización en producción con puntos, niveles, misiones, trivia y panel de caja, sincronizada con el sistema de ventas.
-
-`Next.js` `TypeScript` `PostgreSQL` `Vitest` `Docker`
-
-</td>
-</tr>
-</table>
-
-### <img src="https://api.iconify.design/lucide/plug.svg?color=%238b949e" width="20" height="20" alt="" /> Integraciones y comercio
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### <img src="https://api.iconify.design/lucide/utensils.svg?color=%238b949e" width="18" height="18" alt="" /> Wasel <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="14" height="14" alt="" />
-Sincronización entre Waiterio y Bsale POS para restaurantes, con borradores de venta, panel en Windows, alertas de inventario y catálogo de productos.
-
-`Node.js` `SQLite` `WebSocket` `Tauri` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-#### <img src="https://api.iconify.design/lucide/package.svg?color=%238b949e" width="18" height="18" alt="" /> [wasel-updates](https://github.com/AitorCVargas/wasel-updates) <img src="https://api.iconify.design/lucide/globe.svg?color=%238b949e" width="14" height="14" alt="" />
-Canal público de distribución del panel, con instaladores y actualizaciones automáticas mediante `latest.json`.
-
-`GitHub Actions` `Tauri Updater`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### <img src="https://api.iconify.design/lucide/shopping-cart.svg?color=%238b949e" width="18" height="18" alt="" /> DELA-ECOMMERCE <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="14" height="14" alt="" />
-Tienda online de productos lácteos con catálogo, carrito, pagos y panel administrativo.
-
-`Next.js` `NestJS` `Prisma` `PostgreSQL` `Socket.IO`
-
-</td>
-<td width="50%" valign="top">
-
-#### <img src="https://api.iconify.design/lucide/truck.svg?color=%238b949e" width="18" height="18" alt="" /> DELA-COMERCIO <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="14" height="14" alt="" />
-Plataforma de pedidos y logística B2B/B2C con producción, despachos, notificaciones en tiempo real y toma de pedidos asistida por IA.
-
-`Next.js` `Drizzle` `PostgreSQL` `WebSocket` `OpenAI`
-
-</td>
-</tr>
-</table>
-
-### <img src="https://api.iconify.design/lucide/chart-column.svg?color=%238b949e" width="20" height="20" alt="" /> Dashboards y datos
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### <img src="https://api.iconify.design/lucide/wallet.svg?color=%238b949e" width="18" height="18" alt="" /> Dashboard de Ventas <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="14" height="14" alt="" />
-Ventas por canal, sucursal y categoría a partir del Excel de Bsale, con filtros, modo oscuro y enlaces compartibles.
-
-`FastAPI` `Docker`
-
-</td>
-<td width="33%" valign="top">
-
-#### <img src="https://api.iconify.design/lucide/receipt.svg?color=%238b949e" width="18" height="18" alt="" /> Dashboard de Gastos <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="14" height="14" alt="" />
-Gastos, planilla y Estado de Resultados, con rentabilidad por canal, línea de producto, zona y vendedor.
-
-`FastAPI` `Docker`
-
-</td>
-<td width="33%" valign="top">
-
-#### <img src="https://api.iconify.design/lucide/trending-up.svg?color=%238b949e" width="18" height="18" alt="" /> Avances Comerciales <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="14" height="14" alt="" />
-Seguimiento de clientes nuevos y existentes por región, con plantilla de Excel y enlaces permanentes.
-
-`Python` `Docker`
-
-</td>
-</tr>
-</table>
-
-### <img src="https://api.iconify.design/lucide/brain.svg?color=%238b949e" width="20" height="20" alt="" /> Otros proyectos
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%238b949e" width="18" height="18" alt="" /> [PREDICCION-SISTEMA](https://github.com/AitorCVargas/PREDICCION-SISTEMA) <img src="https://api.iconify.design/lucide/globe.svg?color=%238b949e" width="14" height="14" alt="" />
-Aplicación de apoyo a la gestión académica que predice el riesgo de bajo rendimiento y el promedio de los estudiantes. Parte de mi tesis en la UNDC.
-
-`Python` `Machine Learning`
-
-</td>
-<td width="50%" valign="top">
-
-#### <img src="https://api.iconify.design/lucide/stethoscope.svg?color=%238b949e" width="18" height="18" alt="" /> ODONTOSYS <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="14" height="14" alt="" />
-Sistema de historia clínica pensado para funcionar en una red local.
-
-`React` `Vite` `Drizzle` `SQLite`
-
-</td>
-</tr>
-</table>
-
-<sub><img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="12" height="12" alt="" /> Repositorio privado · <img src="https://api.iconify.design/lucide/globe.svg?color=%238b949e" width="12" height="12" alt="" /> Repositorio público</sub>
-
-<br/>
-
-## <img src="https://api.iconify.design/lucide/mail.svg?color=%238b949e" width="22" height="22" alt="" /> Contacto
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%236cb2ff" width="24" height="24" alt="" /> Tecnologías
 
 <div align="center">
 
-Busco oportunidades como desarrollador full stack, frontend o backend junior, o proyectos freelance en desarrollo web, sistemas internos e integraciones.
+**Lenguajes**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp" alt="Lenguajes" />
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,astro,tailwind,vite,html,css" alt="Frontend" />
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi" alt="Backend" />
+
+**Bases de datos**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,firebase,prisma" alt="Bases de datos" />
+
+**DevOps, escritorio y datos**<br/>
+<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,git,tauri,rust,sklearn,vitest" alt="DevOps" />
+
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aitorcvargas-161b22?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitorcvargas/)
-[![Instagram](https://img.shields.io/badge/Instagram-@aitorcvargas-161b22?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aitorcvargas/)
-[![Facebook](https://img.shields.io/badge/Facebook-AitorCVargas-161b22?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AitorCVargas/)
+## <img src="https://api.iconify.design/lucide/blocks.svg?color=%236cb2ff" width="24" height="24" alt="" /> Más proyectos
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=60&section=footer" alt="" />
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### <img src="https://api.iconify.design/lucide/utensils.svg?color=%236cb2ff" width="18" height="18" alt="" /> Wasel
+Sincroniza Waiterio con Bsale POS para restaurantes, con panel de escritorio y actualizaciones automáticas ([wasel-updates](https://github.com/AitorCVargas/wasel-updates)).
+
+<sub>Node.js · SQLite · WebSocket · Tauri</sub>
+
+</td>
+<td width="33%" valign="top">
+
+#### <img src="https://api.iconify.design/lucide/chart-column.svg?color=%236cb2ff" width="18" height="18" alt="" /> Dashboards de negocio
+Ventas, gastos y estado de resultados, recepciones en vivo y avances comerciales, alimentados por la API de Bsale y Excel.
+
+<sub>FastAPI · Python · Docker</sub>
+
+</td>
+<td width="33%" valign="top">
+
+#### <img src="https://api.iconify.design/lucide/map-pin.svg?color=%236cb2ff" width="18" height="18" alt="" /> Portal Ciudadano de Incidencias
+Proyecto RSU para la Municipalidad de San Luis, en equipo. Desarrollé el módulo de incidencias con mapas y reportes.
+
+<sub>Next.js · Supabase · Leaflet · Recharts</sub>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+#### <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%236cb2ff" width="18" height="18" alt="" /> [Predicción Académica](https://github.com/AitorCVargas/PREDICCION-SISTEMA)
+Mi tesis, con machine learning para anticipar el riesgo de bajo rendimiento y activar tutorías a tiempo.
+
+<sub>Python · scikit-learn · XGBoost · Streamlit</sub>
+
+</td>
+<td width="33%" valign="top">
+
+#### <img src="https://api.iconify.design/lucide/stethoscope.svg?color=%236cb2ff" width="18" height="18" alt="" /> OdontoSys
+Historia clínica odontológica pensada para funcionar en una red local.
+
+<sub>React · Vite · Drizzle · SQLite</sub>
+
+</td>
+<td width="33%" valign="top">
+
+#### <img src="https://api.iconify.design/lucide/award.svg?color=%236cb2ff" width="18" height="18" alt="" /> 18 certificaciones
+Databricks (Fundamentals y Generative AI) y 16 cursos PIT de la UNI con notas de 17 a 20.
+
+<sub>Datos · Cloud · Ciberseguridad · ML</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://api.iconify.design/lucide/send.svg?color=%236cb2ff" width="24" height="24" alt="" /> Hablemos
+
+¿Buscas a alguien para tu equipo o tienes un proyecto en mente? Escríbeme.
+
+<a href="https://www.linkedin.com/in/aitorcvargas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/aitorcvargas/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.facebook.com/AitorCVargas/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6cb2ff,45:1450c8,100:0b1b3a&height=120&section=footer" alt="" width="100%" />
 
 </div>
